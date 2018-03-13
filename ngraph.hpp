@@ -32,8 +32,6 @@
 #include <string>
 #include <algorithm>
 #include <sstream>      // for I/O << and >> operators
-#include "set_ops.hpp"
-
 
 // TEMPLATE DIRECTED GRAPH (with in-out adjacency list)
 //
